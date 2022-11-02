@@ -11,7 +11,7 @@ import java.util.Date;
  * Class definition of YMD - Store and compare simple dates consisting of
  * year, month, and day-of-month.
  * 
- * @author antkowiak@gmail.com
+ * @author Ryan Antkowiak
  *
  */
 public class YMD
